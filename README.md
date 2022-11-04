@@ -1,4 +1,4 @@
-# Salva
+# Tech
 
 Next.js × TypeScript × Material UI x Salva
 
