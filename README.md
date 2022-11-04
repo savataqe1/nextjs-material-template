@@ -1,21 +1,11 @@
-# About
+# Salva
 
-Next.js × TypeScript × Material UI のテンプレートです。
+Next.js × TypeScript × Material UI x Salva
 
-# Package Install
 
-```
-npm install
-```
 
-# Technology
+# Kütüphaneler
 
 - Next.js
 - TypeScript
 - Material UI
-- Recoil
-
-# Reference
-
-- [Next.js に Matarial UI を導入する](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
-- [Next.js で dark mode を実装する](https://zenn.dev/iamwanabi/articles/0471f4977ee94e)
